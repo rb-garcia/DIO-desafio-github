@@ -1,0 +1,15 @@
+Clonar repositorio na maquina local
+git clone https://github.com/rb-garcia/DIO-desafio-github.git
+
+Visualizar o status das pastas locais
+git status
+
+Adicionar a pasta e todos os arquivos ao Git (local)
+git add .
+
+Fazendo um commit local
+git commit -m "Inclusão das anotações do curso Git/GitHub"
+
+Enviar para o servidor
+git push origin main
+

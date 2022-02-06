@@ -1,0 +1,10 @@
+dotnet --version /Versão do dotnet 
+dotnet --help /Ajuda nos comandos dotnet
+dotnet --info /Detalhes do sistema
+dotnet --new /Tipo de projeto
+dotnet new --list --tag web
+dotnet new console -o myApp /Cria projeto
+dotnet run /myApp /Executa projeto
+dotnet restore /Resgata dependencias
+
+
